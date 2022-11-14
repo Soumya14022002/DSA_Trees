@@ -1,3 +1,4 @@
+```
 def processLogs(logs, maxSpan):
     # Write your code here
     signin = {}
@@ -17,3 +18,4 @@ def processLogs(logs, maxSpan):
     lens.sort()
     res = [str(i) for i in lens]
     return res
+```
